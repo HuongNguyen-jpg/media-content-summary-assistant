@@ -2,6 +2,8 @@
 
 > Dự án mẫu về cách tiếp nhận thông tin từ ảnh chụp và liên kết video, chuẩn hóa dữ kiện, nhận diện chủ đề, rồi viết bản tóm tắt có ghi nguồn và giới hạn kiểm chứng.
 
+**Website showcase:** [https://huongnguyen-jpg.github.io/media-content-summary-assistant/](https://huongnguyen-jpg.github.io/media-content-summary-assistant/) · **Mã nguồn:** [GitHub repository](https://github.com/HuongNguyen-jpg/media-content-summary-assistant)
+
 ## Mục tiêu
 
 Trình bày một quy trình hỗ trợ học tập có thể áp dụng cho video âm nhạc và nội dung giải trí. Kết quả cần dễ đọc, nêu rõ nguồn, và phân biệt thông tin người dùng cung cấp với thông tin đã kiểm chứng độc lập.
@@ -37,6 +39,7 @@ flowchart TD
 
 - `README.md`: mục tiêu, quy trình và giới hạn của dự án.
 - `examples.md`: mô tả hai ví dụ được thể hiện trong ảnh.
+- `index.html`: website showcase song ngữ Việt–Trung với ví dụ tương tác.
 
 ## Ngôn ngữ
 
